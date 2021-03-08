@@ -1,0 +1,7 @@
+{
+  "name": "projetoGrupoSoma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
